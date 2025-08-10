@@ -25,7 +25,7 @@ For Hindi (`hi`):
 - **Validation**: `hi_dev.csv`
 - **Test**: `hi_test.csv`
 
-##  Installation
+## Installation
 ```bash
 # Clone the repository
 git clone https://github.com/Kahkashan2708/Hindi-Transliteration-Seq2Seq-vs-Transformer
