@@ -28,8 +28,8 @@ For Hindi (`hi`):
 ## 🚀 Installation
 ```bash
 # Clone the repository
-git clone <your_repo_url>
-cd <repo_name>
+git clone https://github.com/Kahkashan2708/Hindi-Transliteration-Seq2Seq-vs-Transformer
+cd Hindi-Transliteration-Seq2Seq-vs-Transformer
 
 # Install dependencies
 pip install -r requirements.txt
