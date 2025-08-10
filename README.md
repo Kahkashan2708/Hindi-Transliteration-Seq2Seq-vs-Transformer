@@ -1,4 +1,4 @@
-# Seq2Seq vs Transformer: Hindi Transliteration
+# Seq2Seq vs Transformer: Hindi Transliteration 
 
 This project implements and compares two deep learning approaches — **Sequence-to-Sequence (Seq2Seq)** and **Transformer** — for Hindi transliteration using the **Dakshina dataset**. The task involves converting a Romanized Hindi string (Latin script) into its corresponding **Devanagari** script.
 
