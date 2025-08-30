@@ -76,9 +76,13 @@ Two major approaches were implemented:
 
 
 
+##  Sample Predictions
+| Input  | Predicted | Ground Truth |
+|--------|-----------|--------------|
+| ankit  | अंकित     | अंकित        |
+| ankor  | अंकोर     | अंकोर        |
+| angarak| अंगारक    | अंगारक       |
 
-**Final Outcome**: The **Transformer model outperformed Seq2Seq (RNN/LSTM/GRU)** in accuracy and generalization.  
-However, Seq2Seq models still performed well on smaller data subsets and required fewer computational resources.
 
 ---
 
